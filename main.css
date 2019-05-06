@@ -1,0 +1,40 @@
+.navbar {background: #fdfcfd; 
+    color:grey;}
+
+.panel {background:#fdfcfd;}
+
+
+.footer {
+      padding: 10px;
+      margin: 0;
+      background:  #fdfcfd;
+      position: absolute;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      height: 40px;
+      text-align: center;
+      color:gray;
+  }
+
+  /* .navbar-header {
+    color: #e0f2f1;
+      background: #2c9b6d;
+      text-align: center;
+      padding: 15px;
+      font-family: 'Gill Sans';
+      font-weight: Bold;
+      font-size: medium;
+
+  }
+
+  .navbar-bar {
+    color: #e0f2f1;
+    background: #2c9b6d;
+    text-align: center;
+    
+}
+
+#head {
+    color: #2c9b6d;
+} */ 
